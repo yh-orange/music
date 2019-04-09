@@ -10,7 +10,7 @@
     </div>
   </div>
 </template>
-
+sad
 <script>
 export default {
   data: () => ({
